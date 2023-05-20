@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AOylpsEc1jMEqwp3+rFcY8KMXoeZYzo8AsWigAtiQopblCKCPXpoE4e6KXe34VVlzVOxE24mqYV2+uAo/V/akQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akbar\\source\\repos\\WebRtcServer\\WebRtcServer\\WebRtcServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
