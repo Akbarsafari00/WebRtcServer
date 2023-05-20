@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dYH4ODlmaSHidFB9Ji5HrBNubELFyNHy63s/OFqRnMHGemCX5q11nL09UBKePsovuLmNuWa2SKVe5fcjBEdCXw==",
+  "dgSpecHash": "RIokzgHUruuqV2D+yNnqsjnn9qETkFGV3sC6GZnZhzsTgm09gV+Ym1C9ap25EEmtlNw2l80DbRLe/kncWZNIAA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\WebRtcServer\\WebRtcServer\\WebRtcServer.csproj",
+  "projectFilePath": "C:\\Users\\akbar\\source\\repos\\WebRtcServer\\WebRtcServer\\WebRtcServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

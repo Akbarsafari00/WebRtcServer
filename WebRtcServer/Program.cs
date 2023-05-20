@@ -25,7 +25,7 @@ app.UseCors(x => x
 
 app.UseEndpoints(endpoints =>
 {
-    endpoints.MapHub<VoiceCallHub>("/hub/voiceCall");
+    endpoints.MapHub<WebRtcHub>("/hub/voiceCall");
 });
 
 app.Run();
