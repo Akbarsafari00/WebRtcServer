@@ -29,3 +29,6 @@ C:\Users\akbar\source\repos\WebRtcServer\WebRtcServer\obj\Debug\net6.0\refint\We
 C:\Users\akbar\source\repos\WebRtcServer\WebRtcServer\obj\Debug\net6.0\WebRtcServer.pdb
 C:\Users\akbar\source\repos\WebRtcServer\WebRtcServer\obj\Debug\net6.0\WebRtcServer.genruntimeconfig.cache
 C:\Users\akbar\source\repos\WebRtcServer\WebRtcServer\obj\Debug\net6.0\ref\WebRtcServer.dll
+D:\Projects\WebRtcServer\WebRtcServer\obj\Debug\net6.0\WebRtcServer.dll
+D:\Projects\WebRtcServer\WebRtcServer\obj\Debug\net6.0\refint\WebRtcServer.dll
+D:\Projects\WebRtcServer\WebRtcServer\obj\Debug\net6.0\WebRtcServer.pdb

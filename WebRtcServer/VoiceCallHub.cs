@@ -51,10 +51,17 @@ public class VoiceCallHub : Hub
         await Clients.Client(targetId).SendAsync("CallReceived",Context.ConnectionId, offer);
     }
 
-    public async Task CallAccepted(string sourceId, object answer)
+    public async Task AcceptCall(string sourceId, object answer)
     {
         Console.WriteLine($"CallAccepted from {sourceId}");
         await Clients.Client(sourceId).SendAsync("CallAccepted",Context.ConnectionId, answer);
+        
+    }
+    
+    public async Task Test()
+    {
+        Console.WriteLine($"Call Test");
+       
         
     }
 }
