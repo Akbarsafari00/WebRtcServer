@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RIokzgHUruuqV2D+yNnqsjnn9qETkFGV3sC6GZnZhzsTgm09gV+Ym1C9ap25EEmtlNw2l80DbRLe/kncWZNIAA==",
+  "dgSpecHash": "l3EN+Nmwyd85NZz5RS6x2Xb3oUjFmduoYA0ehO8Mec8aLwvYUTYg91RdrNikgQ2ZXZXJnqERjkwAs0wQkuV10A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akbar\\source\\repos\\WebRtcServer\\WebRtcServer\\WebRtcServer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Projects\\WebRtcServer\\WebRtcServer\\WebRtcServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isar\\.nuget\\packages\\microsoft.mixedreality.webrtc\\2.0.2\\microsoft.mixedreality.webrtc.2.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
